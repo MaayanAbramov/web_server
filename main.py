@@ -1,3 +1,6 @@
+#This code is a web server that can serve a simple HTML web page on every request.
+#while running this code, open a new window in a browser with the address:
+#http://127.0.0.1:9000
 import socket
 
 HOST = "127.0.0.1"
